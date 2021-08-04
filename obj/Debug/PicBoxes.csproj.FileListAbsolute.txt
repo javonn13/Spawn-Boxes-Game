@@ -1,0 +1,7 @@
+C:\Users\Ja'Vonn\source\repos\PicBoxes\obj\Debug\PicBoxes.csproj.AssemblyReference.cache
+C:\Users\Ja'Vonn\source\repos\PicBoxes\obj\Debug\PicBoxes.csproj.CoreCompileInputs.cache
+C:\Users\Ja'Vonn\source\repos\PicBoxes\bin\Debug\PicBoxes.exe.config
+C:\Users\Ja'Vonn\source\repos\PicBoxes\bin\Debug\PicBoxes.exe
+C:\Users\Ja'Vonn\source\repos\PicBoxes\bin\Debug\PicBoxes.pdb
+C:\Users\Ja'Vonn\source\repos\PicBoxes\obj\Debug\PicBoxes.exe
+C:\Users\Ja'Vonn\source\repos\PicBoxes\obj\Debug\PicBoxes.pdb
